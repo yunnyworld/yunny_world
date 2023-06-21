@@ -23,14 +23,14 @@
 ## Awards 🏆
 - (2022. 05.) &nbsp;2022 서강대학교 청정수컵 - 새내기 Round (현대모비스 자동화상, [4위](https://www.acmicpc.net/contest/board/796))
 - (2022. 08.) &nbsp;2022 ICPC Sinchon Summer Algorithm Camp Contest - 중급 (은상🥈, [2위](https://www.acmicpc.net/contest/spotboard/842))
-- (2022. 09) &nnbsp;2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2022 Summer) ([7위](https://www.acmicpc.net/contest/spotboard/840)
+- (2022. 09) &nnbsp;2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2022 Summer) ([7위](https://www.acmicpc.net/contest/spotboard/840))
 
 &nbsp;
 
 ## Activity
-- (2022. 03. ~) &nbsp; 서강대학교 컴퓨터공학과 알고리즘 학회 'Sogang ICPC Team' 학회원
-- (2022. 03. ~) &nbsp; 신촌지역 대학생 프로그래밍 대회 동아리 연합 'ICPC Sinchon' 회원
-- (2023. 01. ~ 2023. 12) &nbsp; 서강대학교 컴퓨터공학과 알고리즘 학회 'Sogang ICPC Team' 학회장
+- (2022. 03. ~) &nbsp; 서강대학교 컴퓨터공학과 알고리즘 학회 '[Sogang ICPC Team](https://icpc.team/)' 학회원
+- (2022. 03. ~) &nbsp; 신촌지역 대학생 프로그래밍 대회 동아리 연합 '[ICPC Sinchon](https://icpc-sinchon.io/)' 회원
+- (2023. 01. ~ 2023. 12) &nbsp; 서강대학교 컴퓨터공학과 알고리즘 학회 '[Sogang ICPC Team](https://icpc.team/)' 학회장
 - (2023. 01. ~ 2023. 02.) &nbsp; [ICPC Sinchon Algorithm Camp 2023 Winter 중급반](https://icpc-sinchon.io/halloffame) 멘토
 - (2023. 04. ~ 2023. 05.) &nbsp; [2023 서강대학교 청정수컵](https://www.acmicpc.net/category/847) 운영 및 출제 총괄
 
