@@ -23,7 +23,7 @@
 ## Awards 🏆
 - (2022. 05.) &nbsp;2022 서강대학교 청정수컵 - 새내기 Round (현대모비스 자동화상, [4위](https://www.acmicpc.net/contest/board/796))
 - (2022. 08.) &nbsp;2022 ICPC Sinchon Summer Algorithm Camp Contest - 중급 (은상🥈, [2위](https://www.acmicpc.net/contest/spotboard/842))
-- (2022. 09) &nnbsp;2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2022 Summer) ([7위](https://www.acmicpc.net/contest/spotboard/840))
+- (2022. 09) &nbsp;2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2022 Summer) ([7위](https://www.acmicpc.net/contest/spotboard/840))
 
 &nbsp;
 
