@@ -9,7 +9,7 @@
 
 #### BOJ Handle : [yunny_world](https://www.acmicpc.net/user/yunny_world) 
 #### Codeforces Handle : [yunny_world](https://codeforces.com/profile/yunny_world)  
-#### Atcoder Handle : [yunny_world](https://atcoder.jp/users/yunny_world)
+#### Atcoder Handle : [yunny](https://atcoder.jp/users/yunny)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yunny_world)](https://solved.ac/yunny_world) &nbsp;&nbsp; [![CodeForces Profile](http://cf.leed.at?id=yunny_world)](https://codeforces.com/profile/yunny_world)
@@ -33,6 +33,8 @@
 - (2023. 01. ~ 2023. 12) &nbsp; 서강대학교 컴퓨터공학과 알고리즘 학회 '[Sogang ICPC Team](https://icpc.team/)' 학회장
 - (2023. 01. ~ 2023. 02.) &nbsp; [ICPC Sinchon Algorithm Camp 2023 Winter 중급반](https://icpc-sinchon.io/halloffame) 멘토
 - (2023. 04. ~ 2023. 05.) &nbsp; [2023 서강대학교 청정수컵](https://www.acmicpc.net/category/847) 운영 및 출제 총괄
+- (2023. 07. ~ 2023. 08.) &nbsp; [ICPC Sinchon Algorithm Camp 2023 Summer 초급반](https://icpc-sinchon.io/halloffame) 강사
+- (2023. 07. ~ 2023. 08.) &nbsp; [ICPC Sinchon Algorithm Camp 2023 Winter Camp Contest](https://icpc-sinchon.io/campcontest) 출제자
 
 &nbsp;
 
