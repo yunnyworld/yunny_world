@@ -36,7 +36,7 @@
 - (2023. 01. ~ 2023. 02.) &nbsp; [ICPC Sinchon Algorithm Camp 2023 Winter 중급반](https://icpc-sinchon.io/halloffame) 멘토
 - (2023. 04. ~ 2023. 05.) &nbsp; [2023 서강대학교 청정수컵](https://www.acmicpc.net/category/847) 운영 및 출제 총괄
 - (2023. 07. ~ 2023. 08.) &nbsp; [ICPC Sinchon Algorithm Camp 2023 Summer 초급반](https://icpc-sinchon.io/halloffame) 강사
-- (2023. 07. ~ 2023. 08.) &nbsp; [ICPC Sinchon Algorithm Camp 2023 Winter Camp Contest](https://icpc-sinchon.io/campcontest) 출제자
+- (2023. 07. ~ 2023. 08.) &nbsp; [ICPC Sinchon Algorithm Camp 2023 Summer Camp Contest](https://icpc-sinchon.io/campcontest) 출제자
 
 &nbsp;
 
