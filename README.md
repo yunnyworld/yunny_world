@@ -37,6 +37,7 @@
 - (2023. 04. ~ 2023. 05.) &nbsp; [2023 서강대학교 청정수컵](https://www.acmicpc.net/category/847) 운영 및 출제 총괄
 - (2023. 07. ~ 2023. 08.) &nbsp; [ICPC Sinchon Algorithm Camp 2023 Summer 초급반](https://icpc-sinchon.io/halloffame) 강사
 - (2023. 07. ~ 2023. 08.) &nbsp; [ICPC Sinchon Algorithm Camp 2023 Summer Camp Contest](https://icpc-sinchon.io/campcontest) 출제자
+- (2023. 09. ~ 2023. 11.) &nbsp; [2023 Sogang Programming Contest](https://www.acmicpc.net/category/996) 운영 및 출제 총괄
 
 &nbsp;
 
@@ -46,3 +47,5 @@
 - [2022 Sogang Programming Contest (Master)](https://www.acmicpc.net/contest/spotboard/896) 22*th*
 - [2023 ICPC Sinchon Winter Algorithm Camp Contest - 중급](https://www.acmicpc.net/contest/spotboard/948) 4*th*
 - [2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2023 Winter)](https://www.acmicpc.net/contest/spotboard/950) 12*th* (Team ↑ TLE딱 ↑)
+- [2023 ICPC Asia Seoul Preliminary Contest](http://static.icpckorea.net/2023/first_round/scoreboard/) 59*th* (Team WooJeans)
+- [2022 ICPC Asia Seoul Regional Contest](http://static.icpckorea.net/2023/regional/scoreboard/) 58*th* (Team WooJeans)
